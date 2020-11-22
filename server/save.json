@@ -3,11 +3,11 @@
     [
         { 
             "username":"victor", 
-            "password":"test"
+            "password":"admin"
         },
         { 
             "username":"root", 
-            "password":"rooter"
+            "password":"rootpwd"
         }
     ]
 }

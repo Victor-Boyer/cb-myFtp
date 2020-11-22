@@ -1,0 +1,8 @@
+﻿Ceci est un fichier test.
+
+Il sera envoyé en FTP du client au serveur, et du serveur au client. 
+
+En fonction de la commande utilisée.
+
+
+Bonne continuation.
